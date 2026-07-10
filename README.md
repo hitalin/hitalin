@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**hitalin/hitalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```log
+　　　　　　　　　　／￣ ＼,, へ　　　　　、 χ rヽ / ﾍ　 ﾍ
+　　　　　 , -- 、 //⌒.　ｋ　　　　　　　<￣ -つ 乂　 ヽ 　Ｉ
+　　　　　/　 へ ＼!　 l　 l　　　　　 　　 ＼　ハ-- ＼＿ﾊ　l
+　　　 　/　/　　＼＼ ヽl　Ｉ　　 /　　　　 ﾍヽ --、_/ │ﾊ　│
+　　　　/　/ 　　　ヽヽ/ ﾍ │　　│　　　　　ﾍ 弋　へ) く　 /
+　　 　｜ /　　　　ﾍ　ﾍ l　│　　│　 　　　　ﾍ　弋ノ へ∧/
+　　　 ｜｜　　　　 ﾍ j ﾏ　ﾉ i　 │ﾍ　　　　　 ＼ ﾉ ヽJヽ /
+　　　 ｜｜　　　　　│ ﾉ / │　 │ ﾍ　　　　　ﾏ ＼代 ＼／ l
+　　　 │｜　　　　　ﾊ ハ/││　 │_.-　　　　├_⊆ヽ つ- /
+　　　 弋 ヽ 　　　　メχ　l　ﾊ　√　弋 ﾍ---ν〆　l ﾐ.丿ｊ人
+　　　　 ヽヽ　 　　／∧　∨ ﾍ　 ﾉ　　 ¨　　　 lJ ﾉ ﾊ　│V　 ＼　　　☆-・
+　　　　　 ＼＼　 ／／　> ┤　 ﾚ 　　 -　　　　 ソ,,ﾘ　 │　 ＼　＼,
+　　☆-・ 　 ＼ ν／　　(⌒ゝ　、χ≠”¨　　　　 　人 │　　　へ　 ＼
+　　　　　　　／へ＼　　乂、l　 ﾍ、　　　 　　_　ィ　l ｌ　│　　　　‘へ、 ＼
+　　　　　　／／ ヽヽ　　　-Y　　弋、　　 　　　「 k l ｌ　ﾉ　　　　 　　　 ＼＼
+　 　　　／ ／　　 ヽ＼　　 │　 代iフγ＼┬││l’ﾉノ入　　　　　　　　 ﾍ l
+　　　 ／ ／　　　　ﾍ　ﾍ　　 弋、　＼　＼ ＼││　│ l ヾ┐　 　 　　　　ﾍ│
+　　　/　/　　　　 　ﾍ ハ　　 〉＼　　 ＼＿＼ ＼代＿/ ソヽ＼　　　 　　　/│
+　 　/　/　　　　 　 │ ハ　 /　--へ.＿＿,⊃　　＼ﾍ 人ゞ＼ ＼　　　 　 　ﾉ/
+　　/　/　　　 　　　 ﾉ　ﾉ　/ , ── __、　＞´　　 ﾉハ_　ﾍ　へ、＼　　　　 ﾉ,
+　 ハ ハ　　☆-・　　/　/　/／. ------ .?＼Ｙ ,　／　/ヽ＼_　 ＼＼　 ／,
+　│ │　　　　 　 ／ ／　ハ／---／￣^Y　＼／ ／/ ﾉ　 l　 　 ＼χ ／
+　│ │　　 　　 ／ ／　　│　　　＼　　 へ＼--／/ /　　│　　　 ／　<
+　 ｌ │　　　　／／ 　　　 ﾉ　　　　　ﾍ　　　　│ニニ/ / 　 │　 ／　χﾍ
+　 ｌ　ﾍ　　　／, 　　　　 /　　　 　　　 ＼　　　　人 ＼　/　　ﾍ　/　　/ ﾍﾍ
+　人 　ﾍ　 ／,　 　　　　ハ　　　　　　　 ＼／ ＼　　　　　　 / /　　/ 　l 　l
+```
